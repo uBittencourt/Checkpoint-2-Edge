@@ -15,7 +15,7 @@
   <a href="#aviso">Aviso</a> 
 </p>
 
-![wokwi-checkpoint-2](img/wokwi_checkpoint_2.png)
+![wokwi-checkpoint-2](./img/wokwi_checkpoint_2.PNG)
 
 ## Participantes
 * João Henrique Sena Hoffmann (RM550763)
